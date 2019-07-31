@@ -63,7 +63,7 @@ h5 {
 }
 /* Colours */
 a {
-    color: #0097CD;
+    color: #BD5D38;
 }
 
     a:hover, a:active, a:focus {
@@ -112,7 +112,7 @@ a {
     background-color: #0985CF;
 }
 .cta-blue {
-	color: #0097CD;
+	color: #BD5D38;
 }
 .online-red {
     color: #ed3a51 !important;
@@ -1234,7 +1234,7 @@ blockquote p, blockquote footer {
     }
 
     .media-button a, .cu-media-button a, .london-media-button a, .online-media-button a {
-        color: #0097CD;
+        color: #BD5D38;
     }
 
         .media-button a:hover {
@@ -1291,7 +1291,7 @@ blockquote p, blockquote footer {
 }
 
 .graphics a i, .cu-graphics a i, .london-graphics a i, .online-graphics a i {
-    color: #0097CD !important;
+    color: #BD5D38 !important;
 }
 
 .graphics a:hover i, .graphics a:active i, .graphics a:focus i, .cu-graphics a:hover i, .cu-graphics a:active i, .cu-graphics a:focus i, .london-graphics a:hover i, .london-graphics a:active i, .london-graphics a:focus i, .online-graphics a:hover i, .online-graphics a:active i, .online-graphics a:focus i {
@@ -1304,7 +1304,7 @@ blockquote p, blockquote footer {
 
     .course-specification i {
         font-size: 35px;
-        color: #0097CD;
+        color: #BD5D38;
     }
 
 .float-left {
@@ -1345,7 +1345,7 @@ ul.module-list a:before {
     }
 
 .btn-social-icon a {
-    background-color: #0097CD;
+    background-color: #BD5D38;
     border: none;
     border-radius: 5px;
     color: white;
@@ -1381,7 +1381,7 @@ ul.module-list a:before {
     -ms-user-select: none;
     user-select: none;
     display: inline-block;
-    background-color: #0097CD;
+    background-color: #BD5D38;
     text-decoration: none !important;
     color: #fff !important;
 }
@@ -1418,7 +1418,7 @@ ul.module-list a:before {
 }
 
 .btn-cta-apply, .cu-btn-cta-apply, .london-btn-cta-apply, .online-btn-cta-apply {
-    background-color: #0097CD;
+    background-color: #BD5D38;
     color: white;
     border: 2px solid #333;
 }
@@ -1496,7 +1496,7 @@ ul.module-list a:before {
 }
 
 .cookie-disclaimer a {
-    color: #0097CD !important;
+    color: #BD5D38 !important;
     text-decoration: underline !important;
 }
 
@@ -1518,7 +1518,7 @@ ul.module-list a:before {
     -ms-user-select: none;
     user-select: none;
     display: inline-block;
-    background-color: #0097CD;
+    background-color: #BD5D38;
     text-decoration: none !important;
     color: #fff !important;
     margin-bottom: 15px !important;
@@ -2555,7 +2555,7 @@ ul.module-list a:before {
 
 .clearing-link {
     text-decoration: underline;
-    color: #0097CD;
+    color: #BD5D38;
 }
 
     .clearing-link:hover {
@@ -2940,7 +2940,7 @@ input#search {
 
 button.icon {
     border: none;
-    background: #0097CD;
+    background: #BD5D38;
     display: block;
     height: 40px;
     width: 40px;
@@ -3477,7 +3477,7 @@ h4.faculty-location-heading {
 
         .a-z li a:hover {
             color: #fff;
-            background-color: #0097CD;
+            background-color: #BD5D38;
         }
 
 .a-z-heading {
@@ -3505,7 +3505,7 @@ h4.faculty-location-heading {
     }
     /*.a-z li a:hover {
 	color: #fff;
-	background-color: #0097CD;
+	background-color: #BD5D38;
 }*/
     .a-z-padding {
         padding: 30px 15px 0px 15px;
@@ -3574,7 +3574,7 @@ h4.faculty-location-heading {
 }
 
 .infoBlock a {
-    color: #0097CD;
+    color: #BD5D38;
     text-decoration: underline;
 }
 /* ROYAL SLIDER */
@@ -4702,7 +4702,7 @@ img.rsImg {
 .load-btn {
     margin: 0 auto;
     border: none;
-    background: #0097CD;
+    background: #BD5D38;
     color: #fff;
     border-radius: 5px;
     padding: 10px 16px;
@@ -4835,14 +4835,14 @@ img.rsImg {
 
     .full-width-tabs .panel-title > a {
         color: white;
-        background-color: #0097CD;
+        background-color: #BD5D38;
         display: block;
         width: 100%;
         padding: 15px 15px 15px 15px;
     }
 
     .full-width-tabs .panel-title i {
-        color: #0097CD;
+        color: #BD5D38;
         border-radius: 0px;
     }
 
@@ -4866,7 +4866,7 @@ img.rsImg {
     }
 
         .tab-pagination .next a, .tab-pagination .previous a {
-            background-color: #0097CD;
+            background-color: #BD5D38;
             color: #FFF;
             display: block;
         }
@@ -5538,8 +5538,8 @@ Basic style
 
 .cd-pagination .current {
     /* selected number */
-    background-color: #0097CD;
-    border-color: #0097CD;
+    background-color: #BD5D38;
+    border-color: #BD5D38;
     color: #ffffff;
     pointer-events: none;
 }
@@ -5688,7 +5688,7 @@ ul.breadcrumb {
         }
             /* Add a color on mouse-over */
             ul.breadcrumb li a:hover {
-                color: #0097CD;
+                color: #BD5D38;
                 text-decoration: underline;
             }
 /* -------------------------------- 
@@ -5743,7 +5743,7 @@ input[type="radio"].FormChoice__Input--Radio  {
 	background-color: transparent;
 }
 .FormSubmitButton, .btnNext {
-    background-color: #0097CD;
+    background-color: #BD5D38;
     color: #fff;
     padding: 10px 18px;
     font-weight: bold;
